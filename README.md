@@ -24,4 +24,4 @@ Here is a template review that you're welcome to copy-paste in your email to `bm
 >
 > As the reviewer I confirm that there are no conflicts of interest for me to review this work (such as being a major contributor to the reseach).
 > 
-> I estimated the review took me [15?] minutes
+> I estimate that the review took me [15?] minutes
