@@ -2,7 +2,6 @@
 
 This repository contains a submission to be considered for an Open Data and/or Open Materials badge. Two reviewers will inspect the submission and email their review to `bmarwick@uw.edu`, who will post them anonymously to this repo.
 
-
 ## How to review
 
 If you are reviewing this submission, your task is to:
@@ -22,4 +21,3 @@ Here is a template review that you're welcome to copy-paste into the review issu
 > 1.  the submission has a disclosure statement including one or more persistent URLs to [data/code/data & code] files at a trustworthy repository, and sufficient information for an independent researcher to reproduce the reported results (or an explanation of why not),    
 > 2.  the URLs in the text do lead to the [data/code/data & code] files as claimed, and         
 > 3.  the files in the repository are related to the submission        
-
